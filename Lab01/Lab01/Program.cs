@@ -8,4 +8,5 @@ namespace Lab01
         {
             Console.WriteLine("|{0, 10}|", 999);
         }
+    }
 }
